@@ -1,0 +1,10 @@
+C:\git\Jen\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Views\ShippingAustraliaPost\Configure.cshtml
+C:\git\Jen\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Description.txt
+C:\git\Jen\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\web.config
+C:\git\Jen\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\logo.jpg
+C:\git\Jen\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll.config
+C:\git\Jen\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll
+C:\git\Jen\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.pdb
+C:\git\Jen\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csprojResolveAssemblyReference.cache
+C:\git\Jen\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.dll
+C:\git\Jen\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.pdb

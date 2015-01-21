@@ -1,0 +1,10 @@
+C:\git\Jen\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\DiscountRulesCustomerRoles\Configure.cshtml
+C:\git\Jen\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Description.txt
+C:\git\Jen\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\web.config
+C:\git\Jen\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\logo.jpg
+C:\git\Jen\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll.config
+C:\git\Jen\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll
+C:\git\Jen\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.pdb
+C:\git\Jen\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Release\Nop.Plugin.DiscountRules.CustomerRoles.csprojResolveAssemblyReference.cache
+C:\git\Jen\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Release\Nop.Plugin.DiscountRules.CustomerRoles.dll
+C:\git\Jen\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Release\Nop.Plugin.DiscountRules.CustomerRoles.pdb

@@ -1,0 +1,10 @@
+C:\git\Jen\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Views\DiscountRulesHasOneProduct\Configure.cshtml
+C:\git\Jen\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Description.txt
+C:\git\Jen\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\web.config
+C:\git\Jen\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Views\DiscountRulesHasOneProduct\ProductAddPopup.cshtml
+C:\git\Jen\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\logo.jpg
+C:\git\Jen\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll.config
+C:\git\Jen\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll
+C:\git\Jen\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.pdb
+C:\git\Jen\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Release\Nop.Plugin.DiscountRules.HasOneProduct.dll
+C:\git\Jen\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Release\Nop.Plugin.DiscountRules.HasOneProduct.pdb

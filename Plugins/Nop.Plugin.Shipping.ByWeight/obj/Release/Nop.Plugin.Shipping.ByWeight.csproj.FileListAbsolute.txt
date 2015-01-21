@@ -1,0 +1,12 @@
+C:\git\Jen\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\Configure.cshtml
+C:\git\Jen\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\EditPopup.cshtml
+C:\git\Jen\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\_CreateOrUpdate.cshtml
+C:\git\Jen\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\AddPopup.cshtml
+C:\git\Jen\Presentation\Nop.Web\Plugins\Shipping.ByWeight\web.config
+C:\git\Jen\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Description.txt
+C:\git\Jen\Presentation\Nop.Web\Plugins\Shipping.ByWeight\logo.jpg
+C:\git\Jen\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.dll.config
+C:\git\Jen\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.dll
+C:\git\Jen\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.pdb
+C:\git\Jen\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Release\Nop.Plugin.Shipping.ByWeight.dll
+C:\git\Jen\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Release\Nop.Plugin.Shipping.ByWeight.pdb

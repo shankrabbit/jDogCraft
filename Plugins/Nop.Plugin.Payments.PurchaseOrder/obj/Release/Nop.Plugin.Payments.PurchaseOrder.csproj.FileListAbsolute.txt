@@ -1,0 +1,10 @@
+C:\git\Jen\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\Configure.cshtml
+C:\git\Jen\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\PaymentInfo.cshtml
+C:\git\Jen\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\web.config
+C:\git\Jen\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Description.txt
+C:\git\Jen\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\logo.jpg
+C:\git\Jen\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll.config
+C:\git\Jen\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll
+C:\git\Jen\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
+C:\git\Jen\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Release\Nop.Plugin.Payments.PurchaseOrder.dll
+C:\git\Jen\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Release\Nop.Plugin.Payments.PurchaseOrder.pdb

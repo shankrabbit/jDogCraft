@@ -1,0 +1,11 @@
+C:\git\Jen\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentPayPalStandard\Configure.cshtml
+C:\git\Jen\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentPayPalStandard\PaymentInfo.cshtml
+C:\git\Jen\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\web.config
+C:\git\Jen\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
+C:\git\Jen\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+C:\git\Jen\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll.config
+C:\git\Jen\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+C:\git\Jen\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+C:\git\Jen\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Release\Nop.Plugin.Payments.PayPalStandard.csprojResolveAssemblyReference.cache
+C:\git\Jen\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Release\Nop.Plugin.Payments.PayPalStandard.dll
+C:\git\Jen\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Release\Nop.Plugin.Payments.PayPalStandard.pdb
